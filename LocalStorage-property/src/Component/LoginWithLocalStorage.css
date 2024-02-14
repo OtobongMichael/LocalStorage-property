@@ -1,0 +1,19 @@
+input{
+    height: 2;
+    width: 28vw;
+    font-size: 18px;
+    ;
+}
+.btn{
+    height: 3rem;
+    width: 15vw;
+    background-color: #0bb14b;
+    margin-top: 0.5rem;
+    text-align: center;
+}
+.btn h2{
+    margin-top: -2px;
+    font-weight: 500;
+    font-size: 23px;
+    font-family:sans-serif;
+}
